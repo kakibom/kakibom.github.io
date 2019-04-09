@@ -12,6 +12,8 @@ defaults:
       share: true
       related: true
       title:  "Welcome to Jekyll!"
+    categories: blog test
+    tags: test kibeom
 ---
 
 **Hello world**, this is my first Jekyll blog post.
