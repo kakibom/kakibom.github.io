@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true #permalink: /:categories/:title
 words_per_minute         : 200
 comments:
-  provider               : "facebook"
+  provider               : "disqus"
   facebook:
     appid: 1007682309429227
     num_posts: 5
