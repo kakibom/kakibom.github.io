@@ -541,7 +541,7 @@ ko: &DEFAULT_KO
   comments_title             : "댓글"
   more_label                 : "더 보기"
   related_label              : "참고"
-  follow_label               : "팔로우:"
+  follow_label               : "Follow:"
   feed_label                 : "피드"
   powered_by                 : "Powered by"
   website_label              : "웹사이트"
@@ -1395,7 +1395,7 @@ hi: &DEFAULT_HI
   back_to_top                : "शीर्ष पर वापस"
 hi-IN:
   <<: *DEFAULT_HI
-  
+
 # Another locale
 # --------------
 #
