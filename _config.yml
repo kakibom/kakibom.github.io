@@ -30,7 +30,11 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true #permalink: /:categories/:title
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               : "facebook"
+  facebook:
+    appid: 1007682309429227
+    num_posts: 5
+    colorscheme: "light"
   disqus:
     shortname            : "kakibom"
   utterances:
