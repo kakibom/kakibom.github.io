@@ -16,7 +16,7 @@ defaults:
     tags: [test, kibeom]
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is my first Jekyll blog post. <br>
 **안녕하세요 세상!**, 이것은 나의 첫번째 지킬 블로그 포스트.
 
 I hope you like it!
